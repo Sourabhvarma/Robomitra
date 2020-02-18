@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Robomitra/static/css/main.095546f3.chunk.css",
+    "main.js": "/Robomitra/static/js/main.c645124d.chunk.js",
+    "main.js.map": "/Robomitra/static/js/main.c645124d.chunk.js.map",
+    "runtime-main.js": "/Robomitra/static/js/runtime-main.0f26f8d7.js",
+    "runtime-main.js.map": "/Robomitra/static/js/runtime-main.0f26f8d7.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/Robomitra/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.df293792.chunk.js": "/Robomitra/static/js/2.df293792.chunk.js",
+    "static/js/2.df293792.chunk.js.map": "/Robomitra/static/js/2.df293792.chunk.js.map",
+    "index.html": "/Robomitra/index.html",
+    "precache-manifest.19b28d704c101b734bea88c950203cf9.js": "/Robomitra/precache-manifest.19b28d704c101b734bea88c950203cf9.js",
+    "service-worker.js": "/Robomitra/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/Robomitra/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.095546f3.chunk.css.map": "/Robomitra/static/css/main.095546f3.chunk.css.map",
+    "static/js/2.df293792.chunk.js.LICENSE.txt": "/Robomitra/static/js/2.df293792.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f26f8d7.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.df293792.chunk.js",
+    "static/css/main.095546f3.chunk.css",
+    "static/js/main.c645124d.chunk.js"
+  ]
+}
